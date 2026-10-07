@@ -1,0 +1,57 @@
+# Personal overrides for the Matery theme.
+# Keeping these settings outside the theme submodule makes theme updates safer.
+
+indexbtn:
+  enable: true
+  name: GitHub
+  icon: fab fa-github-alt
+  url: https://github.com/ChaoQun-Z
+
+githubLink:
+  enable: true
+  title: GitHub
+  url: https://github.com/ChaoQun-Z
+
+socialLink:
+  github: https://github.com/ChaoQun-Z
+  email:
+  facebook:
+  twitter:
+  qq:
+  weibo:
+  zhihu:
+  rss: true
+
+reward:
+  enable: false
+
+dream:
+  enable: true
+  showTitle: true
+  title: 栗子的学习生活小站
+  text: 记录在学习的内容
+
+profile:
+  avatar: /medias/avatar.jpeg
+  career:
+  introduction: 记录在学习的内容
+
+# Keep the About page, but hide the theme author's sample content.
+myProjects:
+  enable: false
+
+mySkills:
+  enable: false
+
+myGallery:
+  enable: false
+
+subtitle:
+  enable: true
+  loop: false
+  showCursor: true
+  startDelay: 300
+  typeSpeed: 100
+  backSpeed: 50
+  sub:
+    - 记录在学习的内容
